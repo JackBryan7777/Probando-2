@@ -20,6 +20,7 @@ public class ProvandoRepo2 {
         System.out.println("Hola. provando");
         
         System.out.println("Hola. provaaaandsssssssso");
+        System.out.println("De github a netbeans");
     }
     
 }
