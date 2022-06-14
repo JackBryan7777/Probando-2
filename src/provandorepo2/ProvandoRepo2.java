@@ -21,6 +21,8 @@ public class ProvandoRepo2 {
         
         System.out.println("Hola. provaaaandsssssssso");
         System.out.println("De github a netbeans");
+        System.out.println("respondiendo desde otra compu");
+        
     }
     
 }
